@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-#To change between scenes
+//To change between scenes
 public class ChangeScenes : MonoBehaviour
 {
  
