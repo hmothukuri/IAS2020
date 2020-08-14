@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class GlobalVars  
 {
+    //public variable to use when changing the scene
     public static string selectedAnimal;
-    // Start is called before the first frame update
+   
   
 }
