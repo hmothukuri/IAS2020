@@ -1,16 +1,6 @@
 Project Description
-
-The project concept focuses on visualization of 2D/3D images of animals, birds, fruits, vegetables, etc. This idea is generated because, I thought it will be fun 
-for the school kids to Visualize Animals, Birds, Fruits etc. and experience how they really look like. The main idea of interaction is through an application 
-where the children can focus the camera on the field and ask them respective object and the app pops up a 2D/3D image of the respective object. The app consists 
-of a list with the names of particular objects and children can go view them in the app and experience the Augmented reality of the animals, birds, fruits etc. 
-They can experience that there are really fruits on their dining table, they can experience that there is a dog sitting beside them, they can experience they are 
-under the tree with this application. Since is a huge concept, I was able to implement just the animal’s part within the given time constraint. 
-
+The project concept focuses on visualization of 2D/3D images of animals, birds, fruits, vegetables, etc. This idea is generated because, I thought it will be fun for the school kids to Visualize Animals, Birds, Fruits etc. and experience how they really look like. The main idea of interaction is through an application where the children can focus the camera on the field and ask them respective object and the app pops up a 2D/3D image of the respective object. The app consists of a list with the names of particular objects and children can go view them in the app and experience the Augmented reality of the animals, birds, fruits etc. They can experience that there are really fruits on their dining table, they can experience that there is a dog sitting beside them, they can experience they are under the tree with this application. Since is a huge concept, I was able to implement just the animal’s part within the given time constraint. 
 A brief description of how the interaction between the user and the system would look like below:
-
-•	The user interacts with the system with an application where the user opens the app, starts AR which opens the camera, then user can select the respective 
-object and experience it at any location from the camera point of view.
-
+•	The user interacts with the system with an application where the user opens the app, starts AR which opens the camera, then user can select the respective object and experience it at any location from the camera point of view.
 •	The visual elements in the system would be 3D images
 
